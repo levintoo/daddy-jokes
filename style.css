@@ -43,3 +43,40 @@ section p{
 section button{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+/* begnning of responsivveness */
+/* begnning of responsivveness */
+
+@media screen and (max-width: 900px) {
+    section{
+        width: 90%;
+        height: 50vh;
+    } 
+    section p{
+      font-size: 1rem;
+  } 
+  
+  }
+
+@media screen and (max-width: 600px) {
+  section{
+      width: 90%;
+      height: 50vh;
+  } 
+  section p{
+    font-size: 1rem;
+} 
+
+}
+/* begnning of responsivveness */
+
+@media screen and (max-width: 400px) {
+    section{
+        width: 90%;
+        height: 50vh;
+    } 
+    section p{
+      font-size: 1rem;
+  } 
+  
+  }
