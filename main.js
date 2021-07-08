@@ -13,5 +13,5 @@ async function generateJoke() {
     });
     const joke = await jokeRes.json();
 
-    console.log(joke);
+   document.getElementById('joke').innerHTML=joke.joke;
 }
