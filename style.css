@@ -45,7 +45,6 @@ section button{
 }
 
 /* begnning of responsivveness */
-/* begnning of responsivveness */
 
 @media screen and (max-width: 900px) {
     section{
@@ -68,8 +67,6 @@ section button{
 } 
 
 }
-/* begnning of responsivveness */
-
 @media screen and (max-width: 400px) {
     section{
         width: 90%;
